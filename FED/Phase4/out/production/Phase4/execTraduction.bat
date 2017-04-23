@@ -1,0 +1,1 @@
+./release/TransToCsv.exe regleAssociationPhase3.csv
